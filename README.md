@@ -74,13 +74,15 @@ Copy code
 | ------------- | ------------- |
 | Celda 1,1 | Celda 1,2 |
 | Celda 2,1 | Celda 2,2 |
-Líneas horizontales
+
+## Líneas horizontales
 Puedes crear líneas horizontales utilizando tres guiones, tres asteriscos o tres guiones bajos:
 
+```
 ---
 ***
 ___
-
+```
 
 Conclusiones
 Markdown es una herramienta poderosa y simple para formatear texto en documentos web. Esta guía proporciona solo una introducción básica; hay muchas más características y extensiones disponibles. ¡Aprender Markdown es una habilidad valiosa para cualquiera que trabaje con contenido en línea!
