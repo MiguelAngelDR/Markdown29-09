@@ -2,6 +2,19 @@
 
 Markdown es un lenguaje de marcado ligero que te permite formatear texto de manera sencilla y rápida. Es ampliamente utilizado en la escritura de documentos, blogs, READMEs de proyectos en GitHub y en muchas otras aplicaciones. En este documento, aprenderás los conceptos básicos de Markdown.
 
+## Indice
+- [Encabezados](#encabezados)
+- [Párrafos](#párrafos)
+- [Estilos de Texto](#estilos-de-texto)
+- [Listas no ordenadas](#listas-no-ordenadas)
+- [Listas ordenadas](#listas-ordenadas)
+- [Enlaces](#enlaces)
+- [Citas](#citas)
+- [Codigo](#código)
+- [Tablas](#tablas)
+- [Lineas horizontales](#líneas-horizontales)
+- [Conclusion](#conclusiones)
+
 ## Encabezados
 
 Puedes crear encabezados utilizando el símbolo `#`. Cuantos más `#` coloques, más pequeño será el encabezado. Por ejemplo:
@@ -84,7 +97,7 @@ Puedes crear líneas horizontales utilizando tres guiones, tres asteriscos o tre
 ___
 ```
 
-Conclusiones
+# Conclusiones
 Markdown es una herramienta poderosa y simple para formatear texto en documentos web. Esta guía proporciona solo una introducción básica; hay muchas más características y extensiones disponibles. ¡Aprender Markdown es una habilidad valiosa para cualquiera que trabaje con contenido en línea!
 
 Si deseas obtener más información sobre Markdown o aprender sobre sus características avanzadas, puedes consultar la documentación oficial de Markdown.
