@@ -34,3 +34,57 @@ Markdown admite listas ordenadas y no ordenadas:
 1. Primer elemento
 2. Segundo elemento
 3. Tercer elemento
+
+## Enlaces
+Puedes crear enlaces de la siguiente manera:
+
+[Texto del enlace](URL)
+Por ejemplo:
+
+[OpenAI](https://www.openai.com)
+
+##Imágenes
+Insertar imágenes es similar a los enlaces, pero con un signo de exclamación (!) antes:
+
+![Texto alternativo de la imagen](URL de la imagen)
+
+## Citas
+Puedes citar texto utilizando el símbolo ">" al principio de una línea:
+
+> Esto es una cita.
+## Código
+Para formatear texto como código, puedes usar comillas simples ` o triples ```. Por ejemplo:
+
+Inline code: codigo_inline
+
+Bloque de código:
+
+```
+function ejemplo() {
+// Código de ejemplo
+}
+```
+
+## Tablas
+Puedes crear tablas utilizando barras verticales y guiones:
+
+
+Copy code
+| Encabezado 1 | Encabezado 2 |
+| ------------- | ------------- |
+| Celda 1,1 | Celda 1,2 |
+| Celda 2,1 | Celda 2,2 |
+Líneas horizontales
+Puedes crear líneas horizontales utilizando tres guiones, tres asteriscos o tres guiones bajos:
+
+---
+***
+___
+
+
+Conclusiones
+Markdown es una herramienta poderosa y simple para formatear texto en documentos web. Esta guía proporciona solo una introducción básica; hay muchas más características y extensiones disponibles. ¡Aprender Markdown es una habilidad valiosa para cualquiera que trabaje con contenido en línea!
+
+Si deseas obtener más información sobre Markdown o aprender sobre sus características avanzadas, puedes consultar la documentación oficial de Markdown.
+
+¡Diviértete escribiendo en Markdown!
